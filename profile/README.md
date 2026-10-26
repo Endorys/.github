@@ -18,9 +18,11 @@ Exploring conformal sensing, controlled interrogation and calibrated analysis of
 
 ## Current work
 
-The immediate priority is a repeatable fixed-geometry acoustic phantom experiment. The repository contains research specifications, external literature analysis, planned experiments and a runnable synthetic example. Integrated physical and clinical performance has not been established.
+**Immediate goal: a reproducible acoustic phantom experiment.** The repository contains research specifications, external literature analysis, planned experiments and a runnable synthetic example. Integrated physical and clinical performance has not been established.
 
 Endorys continues the programme previously called JUPITER, preserving the original breast motivation alongside broader clinical and materials/NDT research. Proposed applications are distinguished from demonstrated capabilities.
+
+**Invitation: independent protocol review.** An ultrasound/acoustic measurement researcher is invited to review Experiment 001 before physical data collection. [Review the protocol](https://github.com/Endorys/platform/blob/main/research/EXPERIMENT_001.md) and [open an experiment proposal](https://github.com/Endorys/platform/issues/new/choose) titled “E001 independent protocol review.”
 
 ## Founder and contact
 
@@ -28,4 +30,7 @@ Founded by **[Sadhu Shobab Bollipo](https://github.com/sadhushobab)**, Bengaluru
 
 [sadhu.shobab@gmail.com](mailto:sadhu.shobab@gmail.com) · [Open a research issue](https://github.com/Endorys/platform/issues)
 
-Reuse licensing remains [pending](https://github.com/Endorys/platform/blob/main/research/LICENSING_STATUS.md). No institutional endorsement or medical-device approval is implied.
+Original software: Apache-2.0. Original documentation: CC BY 4.0. Hardware, generated visuals and third-party material require separate licensing. See [license scope](https://github.com/Endorys/platform/blob/main/LICENSE.md). No institutional endorsement or medical-device approval is implied.
+
+
+Original text of this organization overview: Copyright 2026 Sadhu Shobab Bollipo, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Embedded or linked visuals are excluded.
