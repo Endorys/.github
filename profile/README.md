@@ -1,49 +1,31 @@
 # Endorys
 
-## Ultrasound-led multiphysics tissue research
+**Ultrasound-led multiphysics tissue research.**
 
-**Founder and concept originator: [Sadhu Shobab Bollipo](https://github.com/sadhushobab)**
+Exploring conformal sensing, controlled interrogation and calibrated analysis of tissue response.
 
-Endorys investigates how conformal sensing, controlled tissue interrogation and response modelling could improve understanding of tissue structure and change over time. The programme began with breast applications and expanded to other clinical questions and materials research.
+[Platform repository](https://github.com/Endorys/platform) · [Documentation](https://github.com/Endorys/platform/tree/main/docs) · [Get started](https://github.com/Endorys/platform/blob/main/GETTING_STARTED.md) · [Research status](https://github.com/Endorys/platform/blob/main/docs/STATUS.md)
 
-The proposed architecture combines one selected acoustic source/contact at a time, distributed receiving transducers, geometry/contact calibration, synchronized acquisition and external computation. Supporting modalities are selected for each research question.
+## Explore the programme
 
-## Start here
-
-- [Platform overview and architecture](https://github.com/Endorys/platform/blob/main/platform.md)
-- [Complete branch register](https://github.com/Endorys/platform/blob/main/BRANCH_REGISTER.md)
-- [Clinical and materials opportunities](https://github.com/Endorys/platform/blob/main/explore.md)
-- [Naming and historical continuity](https://github.com/Endorys/platform/blob/main/NAMING.md)
-
-## Research branches
-
-| Branch | Purpose |
+| Interest | Start here |
 |---|---|
-| [Endorys Matrix](https://github.com/Endorys/platform/blob/main/matrix.md) | Conformal sensing and interrogation surface |
-| [Endorys Insight](https://github.com/Endorys/platform/blob/main/insight.md) | Reconstruction, inference and response tracking |
-| [Endorys Interface](https://github.com/Endorys/platform/blob/main/interface.md) | Mechanical interrogation, coupling and disposable interfaces |
-| [Endorys Therapy](https://github.com/Endorys/platform/blob/main/therapy.md) | Therapeutic acoustics and intervention research |
-| [Endorys Surgical](https://github.com/Endorys/platform/blob/main/surgical.md) | Surgical and procedural tissue awareness |
-| [Endorys Continuum](https://github.com/Endorys/platform/blob/main/continuum.md) | Longitudinal data and clinical integration |
-| [Endorys Evidence](https://github.com/Endorys/platform/blob/main/evidence.md) | Validation, benchmarks and provenance |
-| [Endorys Explore](https://github.com/Endorys/platform/blob/main/explore.md) | Clinical discovery and materials/NDT research |
-| [Endorys Bench](https://github.com/Endorys/platform/blob/main/bench.md) | Physical experiments and prototype testing |
-| [Endorys Challenge](https://github.com/Endorys/platform/blob/main/challenge.md) | Critique, failure analysis and falsification |
-| [Endorys Vascular](https://github.com/Endorys/platform/blob/main/vascular.md) | Vascular and procedural application research |
+| Platform components and application branches | [Branch guide](https://github.com/Endorys/platform/blob/main/docs/BRANCHES.md) |
+| Scientific evidence and validation gaps | [Evidence guide](https://github.com/Endorys/platform/blob/main/docs/EVIDENCE.md) |
+| Hardware, acquisition, calibration and software | [Engineering guide](https://github.com/Endorys/platform/blob/main/docs/ENGINEERING.md) |
+| Visual concepts | [Image gallery](https://github.com/Endorys/platform/tree/main/images) |
+| Contributing research or corrections | [Contribution guide](https://github.com/Endorys/platform/blob/main/CONTRIBUTING.md) |
 
-## Current stage
+## Current work
 
-Research concept and documentation baseline. Proposed capabilities require experimental validation. This repository does not establish diagnostic or therapeutic performance. Reuse licenses have not yet been selected, so public visibility should not be interpreted as an open-source license.
+The immediate priority is a repeatable fixed-geometry acoustic phantom experiment. The repository contains research specifications, external literature analysis, planned experiments and a runnable synthetic example. Integrated physical and clinical performance has not been established.
 
-## Collaborate
+Endorys continues the programme previously called JUPITER, preserving the original breast motivation alongside broader clinical and materials/NDT research. Proposed applications are distinguished from demonstrated capabilities.
 
-Contributions can begin with a focused research question, a defined reference measurement and a reproducible experiment. We welcome acoustic and mechanical engineering, signal processing, clinical research input, evidence reviews and constructive critique. Distinguish proposals, simulations and measured results. Please do not submit patient data, confidential employer information or proprietary third-party designs.
+## Founder and contact
 
-- [Discuss a research question or report a documentation issue](https://github.com/Endorys/platform/issues)
-- [Propose a documented change](https://github.com/Endorys/platform/pulls)
+Founded by **[Sadhu Shobab Bollipo](https://github.com/sadhushobab)**, Bengaluru, India.
 
-## Contact
+[sadhu.shobab@gmail.com](mailto:sadhu.shobab@gmail.com) · [Open a research issue](https://github.com/Endorys/platform/issues)
 
-Based in **Bengaluru, India**.
-
-Research and collaboration enquiries: **[sadhu.shobab@gmail.com](mailto:sadhu.shobab@gmail.com)**.
+Reuse licensing remains [pending](https://github.com/Endorys/platform/blob/main/research/LICENSING_STATUS.md). No institutional endorsement or medical-device approval is implied.
